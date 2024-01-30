@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KilroyWasHere-cs-j](https://github.com/KilroyWasHere-cs-j)
 
-- 💬 Ask me about **Rust,**
+- 💬 Ask me about **Rust, C#, .NET, SQL**
 
 - 📫 How to reach me **gmtower1@gmail.com**
 
