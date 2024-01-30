@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Tower</h1>
 <h3 align="center">A passionate developer from Maine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kilroywashere-cs-j&label=Profile%20views&color=0e75b6&style=flat" alt="kilroywashere-cs-j" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kilroywashere-cs-j" alt="kilroywashere-cs-j" /></a> </p>
-
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KilroyWasHere-cs-j](https://github.com/KilroyWasHere-cs-j)
