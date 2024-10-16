@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think calzones are supiror**
 
-- I am learned Russian and Ukrainian 
+- I am learning Russian and Ukrainian 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
