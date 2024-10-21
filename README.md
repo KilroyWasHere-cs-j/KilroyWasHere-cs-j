@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gmtower1@gmail.com**
 
-- ⚡ Fun fact **I think calzones are supiror**
+- ⚡ Fun fact **Supporter of the KISS method**
 
 - I am learning Russian and Ukrainian 
 
